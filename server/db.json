@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Ivanov Ivan",
+      "phone": "+79999999999"
+    },
+    {
+      "name": "Petrov Petr",
+      "phone": "89625003154",
+      "id": 2
+    },
+    {
+      "name": "Romanov Roman",
+      "phone": "+79853312545",
+      "id": 3
+    },
+    {
+      "name": "Igorev Igor",
+      "phone": "89625003154",
+      "id": 4
+    }
+  ]
+}
